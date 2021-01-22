@@ -121,7 +121,11 @@ footer p {
   header {
    height: 39px;
  }
-
+ 
+.flexbox{
+  width: 480px;
+}
+   
   header img {
     height: 39px;
   }
