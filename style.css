@@ -191,6 +191,10 @@ ul li {
      height: 39px;
    }
    
+  .flexbox{
+  width: 480px;
+}
+  
   nav {
     text-align: left;
   }
