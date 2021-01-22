@@ -132,7 +132,11 @@ footer p {
   }
 
   nav span {
-    font-size: 18px;
+    font-size: 14px;
+    display: inline;
+    padding: 20px 10px;
+    color: #fff;
+    font-weight: 600;
   }
 
   video {
