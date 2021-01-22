@@ -233,7 +233,7 @@ ul li {
 
   #about {
   background-image: url("screen-mobile.jpg");
-  width: 100%;
+  width: auto;
   padding-top: 10px;
   }
 
