@@ -135,8 +135,12 @@ footer p {
     flex-grow: 1;
   }
 
-  nav span {
-    font-size: 18px;
+   nav span {
+    font-size: 14px;
+    display: inline;
+    padding: 20px 10px;
+    color: #fff;
+    font-weight: 600;
   }
 
   .flex-container {
