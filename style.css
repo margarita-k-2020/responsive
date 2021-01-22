@@ -234,6 +234,7 @@ ul li {
   #about {
   background-image: url("screen-mobile.jpg");
   width: 480px;
+    height: 700px;
   padding-top: 10px;
   }
 
